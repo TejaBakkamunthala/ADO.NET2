@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\DotNetProgramss\\SqlCrudOpertionsProgram2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB14F8D2-BF5E-44C2-8303-164EB414F21E}|SqlCrudOpertionsProgram2\\SqlCrudOpertionsProgram2.csproj|f:\\dotnetprogramss\\sqlcrudopertionsprogram2\\sqlcrudopertionsprogram2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB14F8D2-BF5E-44C2-8303-164EB414F21E}|SqlCrudOpertionsProgram2\\SqlCrudOpertionsProgram2.csproj|solutionrelative:sqlcrudopertionsprogram2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB14F8D2-BF5E-44C2-8303-164EB414F21E}|SqlCrudOpertionsProgram2\\SqlCrudOpertionsProgram2.csproj|F:\\DotNetProgramss\\SqlCrudOpertionsProgram2\\sqlcrudopertionsprogram2\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CB14F8D2-BF5E-44C2-8303-164EB414F21E}|SqlCrudOpertionsProgram2\\SqlCrudOpertionsProgram2.csproj|solutionrelative:sqlcrudopertionsprogram2\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "F:\\DotNetProgramss\\SqlCrudOpertionsProgram2\\SqlCrudOpertionsProgram2\\App.config",
+              "RelativeDocumentMoniker": "SqlCrudOpertionsProgram2\\App.config",
+              "ToolTip": "F:\\DotNetProgramss\\SqlCrudOpertionsProgram2\\SqlCrudOpertionsProgram2\\App.config",
+              "RelativeToolTip": "SqlCrudOpertionsProgram2\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-03-26T04:54:55.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\SqlCrudOpertionsProgram2\\SqlCrudOpertionsProgram2\\Program.cs",
+              "RelativeDocumentMoniker": "SqlCrudOpertionsProgram2\\Program.cs",
+              "ToolTip": "F:\\DotNetProgramss\\SqlCrudOpertionsProgram2\\SqlCrudOpertionsProgram2\\Program.cs",
+              "RelativeToolTip": "SqlCrudOpertionsProgram2\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAuwFMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T04:38:11.248Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

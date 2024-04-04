@@ -1,0 +1,7 @@
+F:\DotNetProgramss\SqlCrudOpertionsProgram2\SqlCrudOpertionsProgram2\bin\Debug\SqlCrudOpertionsProgram2.exe.config
+F:\DotNetProgramss\SqlCrudOpertionsProgram2\SqlCrudOpertionsProgram2\bin\Debug\SqlCrudOpertionsProgram2.exe
+F:\DotNetProgramss\SqlCrudOpertionsProgram2\SqlCrudOpertionsProgram2\bin\Debug\SqlCrudOpertionsProgram2.pdb
+F:\DotNetProgramss\SqlCrudOpertionsProgram2\SqlCrudOpertionsProgram2\obj\Debug\SqlCrudOpertionsProgram2.csproj.AssemblyReference.cache
+F:\DotNetProgramss\SqlCrudOpertionsProgram2\SqlCrudOpertionsProgram2\obj\Debug\SqlCrudOpertionsProgram2.csproj.CoreCompileInputs.cache
+F:\DotNetProgramss\SqlCrudOpertionsProgram2\SqlCrudOpertionsProgram2\obj\Debug\SqlCrudOpertionsProgram2.exe
+F:\DotNetProgramss\SqlCrudOpertionsProgram2\SqlCrudOpertionsProgram2\obj\Debug\SqlCrudOpertionsProgram2.pdb
